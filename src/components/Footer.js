@@ -9,7 +9,7 @@ function Footer() {
             <strong>Thank you for checking out my page.</strong>
             <br></br>
             <br></br>
-            <p>Do note that all views expressed here are my own, and borne out of personal usage of these platforms. They are not a representation of my work nor are they made in an official capacity. I would also like to add that I recognise and admire all the efforts of those who have made these products, and have utmost respect for their craft and dedication (: Ping me via these channels if you want to reach out for coffee.</p>
+            <p>Do note that all views expressed here are my own, and borne out of personal usage of these platforms. They are not a representation of my work nor are of any official capacity. I'd also like to add that I recognise and admire  the efforts of all those who have made these products, and have utmost respect for their craft and dedication :) Ping me via these channels if you want to reach out for coffee.</p>
 		</div>
         
       	<div className="col-1">
